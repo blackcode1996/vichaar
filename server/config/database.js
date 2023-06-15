@@ -1,3 +1,5 @@
+//connection with database
+
 const mongoose = require("mongoose");
 
 const connectDatabase=()=>{
